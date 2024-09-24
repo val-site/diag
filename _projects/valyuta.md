@@ -25,7 +25,7 @@ content_layout:
     images:
       - caption:
         description: 'Taken in a nuclear bunker'
-        url: "valyuta-details.png"
+        url: "/valyuta-details.png"
         width:
         height:
 ---
