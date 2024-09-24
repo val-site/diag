@@ -11,6 +11,10 @@ client:
 time_period: 2021
 thumbnail: "/valyuta-cover.png"
 
+website:
+  button_text: Download App
+  url: https://apps.apple.com/us/app/id1662385019
+
 intro: |
   Our app offers comprehensive financial tools, including support for over 150 currencies 
   and cryptocurrencies, real-time exchange rates, and bank comparisons in Azerbaijan 
