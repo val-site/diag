@@ -9,7 +9,7 @@ media: Book
 ownership: Diagonalis
 client:
 time_period: 2021
-thumbnail: "https://github.com/val-site/diag/blob/main/images/valyuta-cover.png?raw=true"
+thumbnail: "https://github.com/val-site/diag/blob/main/images/valyuta-cover.png"
 
 intro: |
   Our app offers comprehensive financial tools, including support for over 150 currencies 
@@ -25,7 +25,7 @@ content_layout:
     images:
       - caption:
         description: 'Taken in a nuclear bunker'
-        url: "https://github.com/val-site/diag/blob/main/images/valyuta-details.png?raw=true"
+        url: "https://github.com/val-site/diag/blob/main/images/valyuta-details.png"
         width:
         height:
 ---
